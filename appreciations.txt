@@ -1,0 +1,5 @@
+Très bien
+Bien
+Assez bien
+Moyen
+Insuffisant
